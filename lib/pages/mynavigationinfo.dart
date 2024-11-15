@@ -5,7 +5,7 @@ import 'package:copybook/pages/pinyin.dart';
 import 'package:url_launcher/url_launcher.dart';
 import 'package:package_info_plus/package_info_plus.dart';
 
-class MyNavigationInfo {
+mixin MyNavigationInfo {
   List pages = ["汉字", "拼音", "数字", "关于"];
   Map<String, dynamic> pagesInfo = {
     "汉字": {

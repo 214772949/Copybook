@@ -10,7 +10,7 @@ import package_info_plus
 import platform_device_id_macos
 import platform_device_id_v3
 import printing
-import sqflite
+import sqflite_darwin
 import url_launcher_macos
 
 func RegisterGeneratedPlugins(registry: FlutterPluginRegistry) {
