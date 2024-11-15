@@ -359,7 +359,6 @@ class HanZi {
     bool bStroke = false,
   }) async {
     if (bStroke) {
-      str = "一肿夺";
     } else if (bSpaceLine) {
       int count = mColCount;
       if (mGridType == GridType.gridTypeVertical) {
