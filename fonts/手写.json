@@ -43,14 +43,19 @@
             "font_scan": 0.85
         },
         "蝉羽真颜金戈": {
-            "font_file": "蝉羽真颜金戈.ttf",
-            "font_size": 38,
-            "font_scan": 0.82
+            "font_file": "蝉羽真颜金戈.ttf"
         },
         "博洋楷体7000": {
-            "font_file": "博洋楷体7000.ttf",
-            "font_size": 38,
-            "font_scan": 0.85
+            "font_file": "博洋楷体7000.ttf"
+        },
+        "德彪钢笔行书字库": {
+            "font_file": "德彪钢笔行书字库.ttf"
+        },
+        "田英章行书": {
+            "font_file": "田英章行书.ttf"
+        },
+        "霞鹜文楷等宽": {
+            "font_file": "霞鹜文楷等宽-Light.ttf"
         }
     }
 }
